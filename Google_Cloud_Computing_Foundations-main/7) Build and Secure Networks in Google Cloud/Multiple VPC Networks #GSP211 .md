@@ -1,5 +1,4 @@
-# GSP211 
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
+
 ## Run in cloudshell
 ### Get 1st zone from task TASK 2, 3rd step
 ```cmd
