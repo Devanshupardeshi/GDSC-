@@ -1,5 +1,4 @@
-# GSP215
-[![](https://github.com/CodingWithHardik/CodingWithHardik/blob/main/img/subscribe_button.png)](https://www.youtube.com/@CloudHustlers)
+
 ## Run in cloudshell
 ### Get REGION 1 AND REGION 2 from Task 2
 ```cmd
